@@ -1,0 +1,40 @@
+{
+  "students": [
+    {
+      "name": "Emon",
+      "lastname": null,
+      "age": 24,
+      "cgpa": 2.78,
+      "completed": true,
+      "languages": ["Bengali", "English", "Arabic"],
+      "friends": [
+        {
+          "name": "Mihal",
+          "age": 25
+        },
+        {
+          "name": "Muyeen",
+          "age": 24
+        }
+      ]
+    },
+    {
+      "name": "Rifat",
+      "lastname": null,
+      "age": 24,
+      "cgpa": 2.78,
+      "completed": true,
+      "languages": ["Bengali", "English"],
+      "friends": [
+        {
+          "name": "Tushar",
+          "age": 23
+        },
+        {
+          "name": "Shezan",
+          "age": 26
+        }
+      ]
+    }
+  ]
+}
